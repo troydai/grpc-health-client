@@ -9,3 +9,4 @@ release:
 
 benchmark: release
 	./scripts/go-benchmark.sh
+	./scripts/rust-benchmark.sh
